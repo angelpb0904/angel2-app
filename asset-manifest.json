@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/angel2-app/static/css/main.073c9b0a.css",
+    "main.js": "/angel2-app/static/js/main.c29224a4.js",
+    "static/js/787.23521a61.chunk.js": "/angel2-app/static/js/787.23521a61.chunk.js",
+    "static/media/logo.svg": "/angel2-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/angel2-app/index.html",
+    "main.073c9b0a.css.map": "/angel2-app/static/css/main.073c9b0a.css.map",
+    "main.c29224a4.js.map": "/angel2-app/static/js/main.c29224a4.js.map",
+    "787.23521a61.chunk.js.map": "/angel2-app/static/js/787.23521a61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c29224a4.js"
+  ]
+}
